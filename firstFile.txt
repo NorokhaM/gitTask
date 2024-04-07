@@ -1,7 +1,7 @@
 line1ab
 line2bc
-line3
-line4
+line3fg
+line4jh
 line5
 line6
 line7
